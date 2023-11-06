@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "dependencies": {
+        "terminal-kit": "^3.0.1"
+    }
+}
